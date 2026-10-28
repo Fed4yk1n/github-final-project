@@ -40,6 +40,26 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 All complaints will be reviewed and investigated promptly and fairly.
 
+## Enforcement Guidelines
+
+Community leaders will follow these guidelines when determining the consequences for behavior that violates this Code of Conduct:
+
+### 1. Correction
+
+For minor violations, a private or public correction may be issued to clarify the expected behavior.
+
+### 2. Warning
+
+For repeated or more serious violations, a formal warning may be issued with clear consequences for continued behavior.
+
+### 3. Temporary Ban
+
+For serious or continued violations, a temporary ban from community interaction may be applied.
+
+### 4. Permanent Ban
+
+For patterns of abuse, harassment, or other unacceptable behavior, a permanent ban may be applied.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1.
